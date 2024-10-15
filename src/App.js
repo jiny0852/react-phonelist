@@ -10,7 +10,7 @@ function App() {
       <div>
           <BrowserRouter>
               <Routes>
-                  <Route path='/list' element={<List />} />
+                  <Route path='/' element={<List />} />
 
 
         
